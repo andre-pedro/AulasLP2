@@ -35,7 +35,10 @@ namespace Fortnite
 
         public void SetShield(double shield)
         {
-            this.shield = shield;
+            if (shield >= 0)
+            {
+                this.shield = shield;
+            }
         }
 
 
