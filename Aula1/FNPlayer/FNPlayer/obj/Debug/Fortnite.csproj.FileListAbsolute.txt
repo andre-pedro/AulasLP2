@@ -1,0 +1,7 @@
+C:\Users\André Pedro\Desktop\Lusófona\LP2\AulasLP2\Aula1\FNPlayer\FNPlayer\obj\Debug\Fortnite.csprojAssemblyReference.cache
+C:\Users\André Pedro\Desktop\Lusófona\LP2\AulasLP2\Aula1\FNPlayer\FNPlayer\obj\Debug\Fortnite.csproj.CoreCompileInputs.cache
+C:\Users\André Pedro\Desktop\Lusófona\LP2\AulasLP2\Aula1\FNPlayer\FNPlayer\bin\Debug\FNPlayer.exe.config
+C:\Users\André Pedro\Desktop\Lusófona\LP2\AulasLP2\Aula1\FNPlayer\FNPlayer\bin\Debug\FNPlayer.exe
+C:\Users\André Pedro\Desktop\Lusófona\LP2\AulasLP2\Aula1\FNPlayer\FNPlayer\bin\Debug\FNPlayer.pdb
+C:\Users\André Pedro\Desktop\Lusófona\LP2\AulasLP2\Aula1\FNPlayer\FNPlayer\obj\Debug\FNPlayer.exe
+C:\Users\André Pedro\Desktop\Lusófona\LP2\AulasLP2\Aula1\FNPlayer\FNPlayer\obj\Debug\FNPlayer.pdb
