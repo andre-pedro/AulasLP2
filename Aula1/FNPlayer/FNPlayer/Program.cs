@@ -13,9 +13,15 @@ namespace Fortnite
             FNPlayer player1 = new FNPlayer();
             FNPlayer player2 = new FNPlayer("MachineGun", 100, 100);
 
-            player1.Attack(player2);
 
-            Console.WriteLine(player1.shield);
+
+            Console.WriteLine("Shield before: " + player2.GetShield() );
+            player1.Attack(player2);
+            Console.WriteLine("Shield after: " + player2.GetShield());
+
+            Console.WriteLine("Shield before: " + player1.GetShield());
+            player1.SetShield(50);
+            Console.WriteLine("Shield after: " + player1.GetShield());
         }
     }
 }
